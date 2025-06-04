@@ -7,7 +7,7 @@ Este repositório é dedicado ao meu processo de aprendizado em React. Estou aco
 - Praticar os conceitos por meio de exemplos simples
 - Consolidar o conhecimento construindo uma aplicação prática
 
-🧠 **Conteúdo Estudado **
+🧠 **Conteúdo Estudado**
 -  **Componentes**: Estrutura básica e reutilização
 -  **JSX**: Sintaxe e como o HTML funciona no React
 -  **Props**: Como passar informações entre componentes

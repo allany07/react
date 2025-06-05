@@ -27,7 +27,7 @@ Este app permite ao usuário:
    - Tarefas concluídas são riscadas e estilizadas de forma diferenciada  
 
 3. **Remover tarefas individualmente**  
-   - Cada item possui um ícone ou botão “🗑️” para exclusão  
+   - Cada item possui um  botão para exclusão  
 
 4. **Limpar todas as tarefas**  
    - Botão para remover todos os itens da lista de uma vez  

@@ -12,7 +12,7 @@ Este app permite ao usuário:
 - **Marcar/Desmarcar como concluída** (clique no texto da tarefa para riscar ou retornar ao status “pendente”)  
 - **Remover itens individualmente** ou **“Limpar tudo”** para esvaziar a lista  
 - **Persistir tarefas no navegador**: todas as entradas são salvas no `localStorage` e só são apagadas se o usuário desejar  
-- **Interface em modo escuro e responsiva**, construída apenas com CSS (Flexbox e Media Queries), funcionado bem em desktop e mobile
+- **Interface em modo escuro e responsiva**, construída apenas com CSS (Flexbox e Media Queries), funcionando bem em desktop e mobile
 
 ---
 
@@ -27,7 +27,7 @@ Este app permite ao usuário:
    - Tarefas concluídas são riscadas e estilizadas de forma diferenciada  
 
 3. **Remover tarefas individualmente**  
-   - Cada item possui um  botão para exclusão  
+   - Cada item possui um botão para exclusão  
 
 4. **Limpar todas as tarefas**  
    - Botão para remover todos os itens da lista de uma vez  
@@ -49,28 +49,17 @@ Este app permite ao usuário:
 - **CSS** puro
   - Flexbox para layout
   - Media Queries para responsividade
-- **LocalStorage** (API do navegador)
+- **localStorage** (API do navegador)
 - **Vite** (opcional, mas recomendado para rodar o projeto localmente)
 
 ---
 
-## Instalar Dependências
+## 🚀 Executando o Projeto
 
-# Usando npm
-npm install
+### 💾 Instalar Dependências
 
-# Ou usando Yarn
-yarn install
+Para instalar as dependências, escolha um dos comandos abaixo:
 
----
-
-## Executar em modo de desenvolvimento
-
-# Usando npm
-npm run dev
-
-# Ou usando Yarn
-yarn dev
-
-
-
+- 📦 **npm**
+  ```bash
+  npm install

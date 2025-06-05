@@ -63,3 +63,10 @@ Para instalar as dependências, escolha um dos comandos abaixo:
 - 📦 **npm**
   ```bash
   npm install
+
+### 👨🏽‍💻 Para rodar o projeto localmente em modo de desenvolvimento  
+- 📦 **npm**
+   ```bash
+   npm run dev
+
+
